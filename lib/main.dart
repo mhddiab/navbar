@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "My flutter app updatedgdfsd ",
+      title: "My flutter app updatedgdfsd sgggggg ",
       theme: ThemeData(
         primaryColor: Colors.red,
       ),
